@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 1706.66 1706.66" fill-rule="evenodd">
+  <!-- Rounded Background -->
+  <rect width="1706.66" height="1706.66" rx="333.3320312500" ry="333.3320312500" fill="#dd0833"></rect>
+  <!-- Inner Scaled Design -->
+  <g transform="matrix(0.65,0,0,0.65,298.66,298.66)">
+    <!-- Gradient -->
+    <linearGradient id="a" x1="346.74" x2="1359.91" y1="853.33" y2="853.33" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#008040" offset="0"></stop>
+      <stop stop-color="#d31dc1" offset="1"></stop>
+    </linearGradient>
+    <!-- Mobile Frame -->
+    <rect x="346.74" y="0" width="1013.17" height="1706.67" rx="333.3320312500" fill="#dd0833" ry="333.3320312500"></rect>
+    <!-- PIN ICON (Location Marker) -->
+    <path fill="#ffffff" d="M853.33 350              C690 350 560 480 560 640              C560 870 853.33 1200 853.33 1200              C853.33 1200 1146.66 870 1146.66 640              C1146.66 480 1016.66 350 853.33 350              Z"></path>
+    <!-- Inner Circle -->
+    <circle cx="853.33" cy="640" r="120" fill="#ff1775"></circle>
+  </g>
+</svg>

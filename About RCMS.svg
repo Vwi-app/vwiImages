@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" preserveAspectRatio="xMidYMid meet" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <rect width="512" height="512" rx="100" ry="100" fill="#0d12d9" shape="rounded"></rect>
+  <g transform="matrix(0.7,0,0,0.7,76.80000000000001,76.80000000000001)">
+    <linearGradient id="a" x1="256" x2="256" y1="512" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#008140"></stop>
+      <stop offset="1" stop-color="#d31dc2"></stop>
+    </linearGradient>
+    <linearGradient id="b" x1="256" x2="256" y1="421" y2="91" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#008140"></stop>
+      <stop offset=".503" stop-color="#d31dc2"></stop>
+      <stop offset="1" stop-color="#008140"></stop>
+    </linearGradient>
+    <path fill="url(#a)" d="M256 512c-42.026 0-84.303-11.322-122.944-32.837C108.31 500.149 76.813 512 45 512H15c-8.284 0-15-6.716-15-15s6.716-15 15-15c24.935 0 46-21.065 46-46v-16.05C21.619 373.258 0 315.264 0 256c0-68.113 26.702-132.327 75.188-180.812C123.674 26.702 187.887 0 256 0s132.326 26.702 180.812 75.188C485.298 123.673 512 187.887 512 256s-26.702 132.327-75.188 180.812C388.326 485.298 324.113 512 256 512z" opacity="1" data-original="url(#a)" class=""></path>
+    <path fill="url(#b)" d="M286 211h-60c-8.284 0-15 6.716-15 15v180c0 8.284 6.716 15 15 15h60c8.284 0 15-6.716 15-15V226c0-8.284-6.716-15-15-15zm-30-30c24.813 0 45-20.187 45-45s-20.187-45-45-45-45 20.187-45 45 20.187 45 45 45z" opacity="1" data-original="url(#b)" class=""></path>
+  </g>
+</svg>
