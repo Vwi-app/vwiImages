@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" x="0" y="0" viewBox="0 0 64 64" style="enable-background:new 0 0 512 512" xml:space="preserve">
-  <rect width="64" height="64" rx="12.5" ry="12.5" fill="#0d12d9" shape="rounded"></rect>
-  <g transform="matrix(0.68,0,0,0.68,10.239871826171875,10.239949035644528)">
-    <linearGradient id="a" x1="4" x2="60" y1="32" y2="32" gradientUnits="userSpaceOnUse">
-      <stop stop-opacity="1" stop-color="#008140" offset="0"></stop>
-      <stop stop-opacity="1" stop-color="#d31dc2" offset="0.9980694980694981"></stop>
-      <stop stop-opacity="1" stop-color="#008140" offset="1"></stop>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" x="0" y="0" viewBox="0 0 50 50" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <rect width="50" height="50" rx="19.53125" ry="19.53125" fill="#e7dfdf" shape="rounded"></rect>
+  <g transform="matrix(0.6,0,0,0.6,9.999999999999998,9.999999999999998)">
+    <linearGradient id="a" x1="25" x2="25" y1="41.5" y2="8.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#008040"></stop>
+      <stop offset="1" stop-color="#2323cd"></stop>
     </linearGradient>
-    <path fill="url(#a)" d="m57.033 38.606-3.03.81v-10.92c0-3.31-2.69-6-6-6h-40.1a4.003 4.003 0 0 1 2.73-2.51l38.64-10.35c2.13-.57 4.33.7 4.9 2.83l5.69 21.25a3.99 3.99 0 0 1-2.83 4.89zM19 38.5h-8v4h8zm33-10v22c0 2.21-1.79 4-4 4H8c-2.21 0-4-1.79-4-4v-22c0-2.21 1.79-4 4-4h40c2.21 0 4 1.79 4 4zm-17 16h3c1.314-.025 1.313-1.975 0-2h-3c-1.314.025-1.313 1.975 0 2zm-8 0h3c1.314-.025 1.313-1.975 0-2h-3c-1.314.025-1.313 1.975 0 2zm-18-2c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2v-4c0-1.1-.9-2-2-2h-8c-1.1 0-2 .9-2 2zm37 5H10c-1.324.026-1.3 1.979 0 2h36c1.324-.026 1.3-1.979 0-2zm0-5h-3c-1.314.025-1.313 1.975 0 2h3c1.314-.025 1.313-1.975 0-2z" opacity="1" data-original="url(#a)"></path>
+    <path fill="url(#a)" d="M44 41.5H6A5.51 5.51 0 0 1 .5 36V14c0-3.03 2.47-5.5 5.5-5.5h38c3.03 0 5.5 2.47 5.5 5.5v22c0 3.03-2.47 5.5-5.5 5.5zm-38-30A2.5 2.5 0 0 0 3.5 14v22A2.5 2.5 0 0 0 6 38.5h38a2.5 2.5 0 0 0 2.5-2.5V14a2.5 2.5 0 0 0-2.5-2.5zm14 14H8c-.83 0-1.5-.67-1.5-1.5v-8c0-.83.67-1.5 1.5-1.5h12c.83 0 1.5.67 1.5 1.5v8c0 .83-.67 1.5-1.5 1.5zm-10.5-3h9v-5h-9zm4 10.5c0-.83-.67-1.5-1.5-1.5H8c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5h4c.83 0 1.5-.67 1.5-1.5zm10 0c0-.83-.67-1.5-1.5-1.5h-4c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5h4c.83 0 1.5-.67 1.5-1.5zm10 0c0-.83-.67-1.5-1.5-1.5h-4c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5h4c.83 0 1.5-.67 1.5-1.5zm10 0c0-.83-.67-1.5-1.5-1.5h-4c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5h4c.83 0 1.5-.67 1.5-1.5z" opacity="1" data-original="url(#a)"></path>
   </g>
 </svg>

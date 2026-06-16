@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      version="1.1"
      xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="55"
-     height="55"
+     width="65"
+     height="65"
      viewBox="0 0 64 64"
      style="enable-background:new 0 0 64 64;"
      xml:space="preserve">
 
   <!-- Same Background as AEPS -->
-  <rect width="63"
-        height="63"
+  <rect width="64"
+        height="64"
         rx="12.5"
         ry="12.5"
         fill="#e6e6e6"/>
